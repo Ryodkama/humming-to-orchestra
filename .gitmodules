@@ -1,0 +1,9 @@
+[submodule "frontend/web-front"]
+	path = frontend/web-front
+	url = git@github.com:Ryodkama/h2o-web-front.git
+[submodule "backend/login-api"]
+	path = backend/login-api
+	url = git@github.com:Ryodkama/h2o-login-api.git
+[submodule "backend/ai-api"]
+	path = backend/ai-api
+	url = git@github.com:Ryodkama/ai-api.git
